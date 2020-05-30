@@ -2,7 +2,7 @@
   "name": "electron-react",
   "productName": "electron-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "public/electron.js",
   "homepage": "./",
   "dependencies": {
