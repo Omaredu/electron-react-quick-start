@@ -1,6 +1,6 @@
 {
-  "name": "stoker",
-  "productName": "Stoker Studio",
+  "name": "electron-react",
+  "productName": "electron-react",
   "version": "0.1.0",
   "private": true,
   "main": "public/electron.js",
